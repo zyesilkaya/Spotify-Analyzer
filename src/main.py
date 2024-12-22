@@ -8,7 +8,7 @@ from data_processing import (
     load_streaming_history, preprocess_streaming_data, get_top_artists,
     get_monthly_trends, get_hourly_trends, calculate_most_played_per_month,
     calculate_top_played, load_your_library, get_top_saved_artists,
-    get_genre_diversity, extract_superlisteners, calculate_total_listening_time,
+    extract_superlisteners, calculate_total_listening_time,
     calculate_unique_artists, calculate_unique_tracks
 )
 
@@ -16,7 +16,7 @@ from data_processing import (
 from visualizations import (
     plot_top_artists, plot_monthly_trends, plot_hourly_trends,
     plot_top_10_tracks, plot_superlisteners, plot_artist_playtime_histograms,
-    plot_top_saved_artists, plot_genre_diversity, plot_most_played_artist_per_month,
+    plot_top_saved_artists, plot_most_played_artist_per_month,
     plot_monthly_listening_time, plot_total_listening_time,
     plot_unique_artists_and_tracks, show_metrics_table
 )
@@ -63,14 +63,10 @@ library_path = os.path.join('data', 'YourLibrary.json')
 library_data = load_your_library(library_path)
 
 # --------------------------
-# ANALYZE & VISUALIZE SAVED ARTISTS & GENRES
+# ANALYZE & VISUALIZE SAVED ARTISTS
 # --------------------------
 top_saved_artists = get_top_saved_artists(library_data)
 plot_top_saved_artists(top_saved_artists)
-
-genre_counts = get_genre_diversity(library_data)
-if genre_counts:
-    plot_genre_diversity(genre_counts)
 
 # --------------------------
 # LOAD & COMBINE ALL STREAMING FILES

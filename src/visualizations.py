@@ -181,25 +181,6 @@ def plot_top_saved_artists(top_artists, output_dir="results"):
     plt.show()
 
 
-def plot_genre_diversity(genre_counts, output_dir="results"):
-    """
-    Plot genre diversity as a pie chart.
-    :param genre_counts: Dictionary with genre as key and count as value.
-    :param output_dir: Directory where the plot image will be saved.
-    """
-    os.makedirs(output_dir, exist_ok=True)
-
-    labels, sizes = zip(*genre_counts.items())
-    plt.figure(figsize=(10, 8))
-    plt.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140)
-    plt.title('Genre Diversity in Your Library')
-    plt.axis('equal')
-    plt.tight_layout()
-
-    plt.savefig(os.path.join(output_dir, "genre_diversity.png"), bbox_inches='tight')
-    plt.show()
-
-
 def plot_most_played_artist_per_month(most_played_artist_per_month, output_dir="results"):
     """
     Plot the most played artist per month.

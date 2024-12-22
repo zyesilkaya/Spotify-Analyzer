@@ -1,26 +1,78 @@
 [
   {
-    "artistName": "Hanae",
+    "artistName": "Watain",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Tycho",
+    "artistName": "Earth, Wind & Fire",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Caroline O'Connor",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Kasım Şeren",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "BTS",
+    "artistName": "Roger Waters",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Jack Strachey",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Mabel Matiz",
+    "artistName": "Oliver Cheatham",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lorne Balfe",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Boris Dlugosch",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Azer Bülbül",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Vincent DeRosa",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Heijan",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mako Ishino",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Roel Dieltiens",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ercüment Orkut",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Jeune Chœur symphonique",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Beach House",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "marble fade",
+    "artistName": "Drizzy.exe",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Caroline Polachek",
+    "artistName": "Yaşar",
     "segment": "Previously Active Listeners"
   },
   {
@@ -28,67 +80,167 @@
     "segment": "Previously Active Listeners"
   },
   {
+    "artistName": "Las Ketchup",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Byrds",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Tipling Rock",
-    "segment": "Super Listeners"
+    "segment": "Moderate listeners"
   },
   {
-    "artistName": "Malachiii",
+    "artistName": "José Feliciano",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Mree",
+    "artistName": "Carolyn Sampson",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Kendimden Hallice",
+    "artistName": "Dream Evil",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kailee Morgue",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gavin Greenaway",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Johannes Brahms",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Giacomo Puccini",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Affet Robot",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Junko Yagami",
+    "segment": "Moderate listeners"
   },
   {
     "artistName": "A Flock Of Seagulls",
     "segment": "Previously Active Listeners"
   },
   {
+    "artistName": "Giorgio Moroder",
+    "segment": "Light listeners"
+  },
+  {
     "artistName": "Askjell",
     "segment": "Light listeners"
   },
   {
+    "artistName": "Princess Chelsea",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Robert DeNiro",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Nicholas Britell",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Silk Sonic",
     "segment": "Light listeners"
   },
   {
-    "artistName": "173",
+    "artistName": "Krobak",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "松司馬拓指揮 Ensemble FOVE",
+    "artistName": "Robert-Eric Gaskell",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "levitation room",
+    "artistName": "Gloria Estefan",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "berlioz",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Garrett Atterberry",
+    "artistName": "Luigi Cherubini",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Indila",
+    "artistName": "Martha Argerich",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "İnanç Şanver",
+    "artistName": "CHVRCHES",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "AnnenMayKantereit",
+    "artistName": "NB Ridaz",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Kenny Rogers",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Cindy Albracht",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Macross 82-99",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Plain White T's",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bertrand Chamayou",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Chelsea Grin",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kazzey",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Dixie Cups",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Nancy Wilson",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Nu Shooz",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Marvin Gaye",
     "segment": "Light listeners"
   },
   {
     "artistName": "Sports",
-    "segment": "Moderate listeners"
+    "segment": "Light listeners"
   },
   {
-    "artistName": "Jessie J",
+    "artistName": "Peter Kooij",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Doğu Swag",
     "segment": "Previously Active Listeners"
   },
   {
@@ -96,31 +248,95 @@
     "segment": "Super Listeners"
   },
   {
-    "artistName": "Motive",
+    "artistName": "Olivia Newton-John",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Ryuichi Sakamoto",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Justin Bieber",
+    "artistName": "John Coltrane",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Ben Matthews",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Cathedral Singers",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dalida",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Tears For Fears",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "emir taha",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "DREAMERS",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "YDA Danial",
+    "artistName": "Frits Vanhulle",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Still Woozy",
+    "artistName": "The Gap Band",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Paul Engemann",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Bachelors",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Naoya Matsuoka",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ahmad Jamal Trio",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Shirley Horn",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Connie Stevens",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nicolas Economou",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kadhja Bonet",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lucas Jussen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bruno Major",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "France Gall",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Fearless Flyers",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Depeche Mode",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Ionut Cercel",
     "segment": "Previously Active Listeners"
   },
   {
@@ -132,15 +348,55 @@
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Kyle Landry",
+    "artistName": "Player",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "iKON",
-    "segment": "Moderate listeners"
+    "artistName": "Jean-Yves Thibaudet",
+    "segment": "Light listeners"
   },
   {
-    "artistName": "Emrx",
+    "artistName": "Chris Stapleton",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Iron & Wine",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Chino Moreno",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Cuba Percussion",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Future",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Khatia Buniatishvili",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Carmen McRae",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Karlheinz Zoeller",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Phil Jay",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "François de Roubaix",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Fazıl Say",
     "segment": "Previously Active Listeners"
   },
   {
@@ -148,115 +404,239 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Yaşlı Amca",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "Billy Joel",
+    "artistName": "Tolga Çebi",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "EXO",
-    "segment": "Moderate listeners"
+    "artistName": "Almost Here",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Judith Rees",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Roy Hargrove",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sadistics",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Terence Blanchard",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Billie Eilish",
-    "segment": "Moderate listeners"
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Emre Fel",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "George Benson",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Joe \"Bean\" Esposito",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Roar",
-    "segment": "Light listeners"
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "William DeVaughn",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Serdar Ortaç",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Dj Suppa",
+    "artistName": "The Pointer Sisters",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "The Vamps",
+    "artistName": "Eliane Elias",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Kaan Boşnak",
+    "artistName": "MFÖ",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Survive Said The Prophet",
-    "segment": "Moderate listeners"
+    "artistName": "Lynyrd Skynyrd",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Esperanza Spalding",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Masok",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bach Collegium Japan",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lou Gramm",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Harry Warren",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "The Neighbourhood",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Shigeru Umebayashi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nena",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mike Lang",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Alperen Akbas",
+    "artistName": "Bavarian Radio Chorus",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "David Abramovitz",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kanon Orchestre de Chambre",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Julie Elven",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jacob Collier",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Claudia Brücken",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Gülşen",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "CL",
+    "artistName": "James Ingram",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Berliner Philharmoniker",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Queen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "George Baker Selection",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sunday Service Choir",
+    "segment": "Light listeners"
   },
   {
     "artistName": "USHER",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "美波",
+    "artistName": "Billy Ocean",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "PENTAGON",
+    "artistName": "Amon Amarth",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Panic! At The Disco",
+    "artistName": "あんみつ",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Lay Bankz",
+    "artistName": "Astrud Gilberto",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Philippe Entremont",
+    "artistName": "Yiğit Aktaş",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "aespa",
+    "artistName": "L.T.D.",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Luke Hemmings",
+    "artistName": "Miroslav Vitous",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Quatuor Arod",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Andy Taylor",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Daryl Hall & John Oates",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "KISS",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Reinbert de Leeuw",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Sub Urban",
+    "artistName": "David Shire",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Emilio Solla",
     "segment": "Light listeners"
   },
   {
-    "artistName": "bôa",
+    "artistName": "Pain of Salvation",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "The Algorithm",
+    "artistName": "Dagmar Krug",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Adamlar",
+    "artistName": "Yıldız Tilbe",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Sylvie Kreusch",
+    "artistName": "Håvard Gimse",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Reckol",
+    "artistName": "Smooth Jazz Sax Instrumentals",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Horace Silver",
     "segment": "Previously Active Listeners"
   },
   {
@@ -264,115 +644,267 @@
     "segment": "Previously Active Listeners"
   },
   {
+    "artistName": "Scorpions",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Steve Tyrell",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Louis Armstrong",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Have A Nice Life",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "I Am Just A Pupil",
     "segment": "Light listeners"
   },
   {
-    "artistName": "rufflws",
+    "artistName": "Hezarfen Ensemble",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "The Fratellis",
+    "artistName": "Sheena Easton",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lil Reflü",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Charlie Parker",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Men At Work",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ramon Ortega Quero",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Al Vizzutti",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Whitney Houston",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Al Green",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Cherry Ferrari",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pat Metheny",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Emmy Rossum",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Simón Bolívar Symphony Orchestra Of Venezuela",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Joy Division",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Claire Brua",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Charles Fowlkes",
     "segment": "Light listeners"
   },
   {
-    "artistName": "azya",
+    "artistName": "John Barry",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "KNOWER",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kim Hyun Chul",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Koji Tsuruta",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dinner Party",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Mustard Service",
+    "artistName": "Pyotr Ilyich Tchaikovsky",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Keinemusik",
+    "artistName": "Dan Weiss",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "MINO",
+    "artistName": "Davishmar",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "mor ve ötesi",
+    "artistName": "Fabrice Moreau",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "koducer",
+    "artistName": "Russ Ballard",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "NATURE",
+    "artistName": "UZI",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Batuhan Kordel",
+    "artistName": "Mazzy Star",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Suzanna Son",
+    "artistName": "Franz-Joseph Selig",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "(G)I-DLE",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Şebnem Ferah",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Miyauchi",
-    "segment": "Super Listeners"
-  },
-  {
-    "artistName": "Canozan",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "KÖFN",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Azealia Banks",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "ギヴン",
+    "artistName": "Gillian Hills",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Gülçin Ergül",
+    "artistName": "Charlie Byrd",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Herbie Hancock",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Jacoba Barber-Rozema",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Antonio Soler",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Oscar Peterson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "George Duke",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Yellowjackets",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Bonnie Tyler",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Broken Edge",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Quartet Muartet",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lemmedoya",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jennifer Paige",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jimi Hendrix",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Perdenin Ardındakiler",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ryan Gosling",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Chasers",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Nur Yoldas",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "Alperen INC",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Simge",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "Kate Bush",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "JENNIE",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Grimes",
+    "artistName": "Patsy Cline",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Surf Curse",
+    "artistName": "Peabo Bryson",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "pasa michaelson",
+    "artistName": "Babe Ruth",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Choir Of Downside School, Purley",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "De La Soul",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Igor Stravinsky",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Journey",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kino",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Frank Sinatra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Anathema",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "INXS",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Del Shannon",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Leon & Mary Russell",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Bjorn Kjellemyr",
     "segment": "Previously Active Listeners"
   },
   {
@@ -380,27 +912,71 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "The Dø",
+    "artistName": "Mariya Takeuchi",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Captain Beefheart & His Magic Band",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Lhasa De Sela",
+    "artistName": "ssshhhiiittt!",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Mecano",
+    "artistName": "Yoon Jong Shin",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "alper6nen",
+    "artistName": "Murray Gold",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Kyiv State Symphony Orchestra",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Yalın",
+    "artistName": "Taming",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Kaoru Akimoto",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Joey Bada$$",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Fil Callendar",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Maria Callas",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Carpenter Brut",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Willie Nelson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ron Jones",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Leif Ove Andsnes",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Gorillaz",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "DJ Grumble",
     "segment": "Light listeners"
   },
   {
@@ -408,19 +984,67 @@
     "segment": "Super Listeners"
   },
   {
-    "artistName": "Agust D",
+    "artistName": "Alexander Scriabin",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Sundays",
     "segment": "Light listeners"
   },
   {
-    "artistName": "99zed",
+    "artistName": "Thundercat",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Leopold Stokowski",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "efevvl",
+    "artistName": "Salif Keita",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Emrah Karaduman",
+    "artistName": "Cortex",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Led Zeppelin",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Vasco Rossi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ed Lewis",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "McCoy Tyner",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "John Bennet",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Brain Blade",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "TOOL",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gino Vannelli",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Michael Small",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bon Jovi",
     "segment": "Previously Active Listeners"
   },
   {
@@ -428,7 +1052,19 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Flyana Boss",
+    "artistName": "Romany Gilmour",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Scott Colley",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Opeth",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Southern Creek Players",
     "segment": "Previously Active Listeners"
   },
   {
@@ -436,47 +1072,159 @@
     "segment": "Previously Active Listeners"
   },
   {
+    "artistName": "Ken Reynolds",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Chris Isaak",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Junko Ohashi",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Zubin Mehta",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mina",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Force Of Nature",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Armut",
+    "artistName": "Felix Mendelssohn",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Wexy",
+    "artistName": "Simply Red",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Ahmet Hatipoğlu",
+    "artistName": "Elliot Goldenthal",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "ITZY",
+    "artistName": "Ufo361",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Tommy Richman",
+    "artistName": "Charles Dutoit",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Howard Shelley",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "YELLOW MAGIC ORCHESTRA",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Benjamin Moussay",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Pharcyde",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Odetta Hartman",
+    "artistName": "Valérie Millot",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Agar Agar",
+    "artistName": "The Cars",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Sabrina Carpenter",
+    "artistName": "Steve Voice",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dream Theater",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Zmeyev",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Frank Zappa",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Reynmen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Fırat Sobutay",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Free Nationals",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Natalie Mendoza",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Gary Kemp",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Fetty Wap",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "System Of A Down",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mami Ayukawa",
     "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Spyro Gyra Featuring Basia",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pat Metheny Group",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Garbage",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Harakiri for the Sky",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gustavo Dudamel",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Michael McDonald",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Tarkan",
-    "segment": "Moderate listeners"
+    "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Alice Phoebe Lou",
+    "artistName": "Gala",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ragnarök",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Alain Delon",
     "segment": "Previously Active Listeners"
   },
   {
@@ -484,55 +1232,175 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Robin Schulz",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Ren0wned",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Peder",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Sofi Tukker",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Ekin Beril",
+    "artistName": "S. Kiyotaka & Omega Tribe",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Johann Sebastian Bach",
+    "artistName": "Burak Bulut",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "HYDE",
+    "artistName": "Hiromi Iwasaki",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Jaco Pastorius",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Shandi",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Ice Cube",
+    "artistName": "Aldo Nova",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Deniz Arcak",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Ashris",
+    "artistName": "The Ides Of March",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sufjan Stevens",
+    "segment": "Super Listeners"
+  },
+  {
+    "artistName": "Fred Hersch",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jean-François Paillard",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Carole King",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Denny Jaeger",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Aldo Rodríguez",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Eduardo Mateo",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Johann Sebastian Bach",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Terje Rypdal",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Don Glori",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sting",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Ice Cube",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Chad Wackerman",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Maggie Rogers",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "TV Girl",
-    "segment": "Previously Active Listeners"
+    "segment": "Super Listeners"
   },
   {
     "artistName": "Shiro SAGISU",
-    "segment": "Light listeners"
+    "segment": "Moderate listeners"
   },
   {
-    "artistName": "No Vacation",
+    "artistName": "Philip Glass",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Hilary Hahn",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Justine Skye",
+    "artistName": "Ron Moss",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Semicenk",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Aydın Esen",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Piero Piccioni",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Michelle Smith",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mehmet Ali Canbaz",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Darcy James Argue's Secret Society",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Yung Bae",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Major Lazer",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Blue Boy",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Honeymoon Suite",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Johnny Cash",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Krzysztof Komeda",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nat King Cole",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jon Christensen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Massive Attack",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Thelonious Monk",
     "segment": "Previously Active Listeners"
   },
   {
@@ -544,143 +1412,475 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "TAEYANG",
+    "artistName": "Yurii Nykonenko",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lil' Kim",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "TOTO",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lisa Gerrard",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Evgeny Zarafiants",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Per Mathisen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Head And The Heart",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dave Blume",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Alicia Keys",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "English Chamber Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Edward Simon",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Luke Woodapple",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "YG Marley",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Tempers",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "raixrd",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Melek Mosso",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Dedublüman",
+    "artistName": "Gipsy Kings",
     "segment": "Light listeners"
+  },
+  {
+    "artistName": "bbno$",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Grover Washington, Jr.",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "St. Regis",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "James Moody",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Alfred Schnittke",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Víkingur Ólafsson",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Andy Williams",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bülent Ortaçgil",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Alexander Briger",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "ElMusto",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Isao Tomita",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Garmarna",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Joe Lovano",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Richard Lester",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Rachel Nicholls",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "My Mine",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nocturne Moonrise",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bear McCreary",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bill Conti",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Wayne Krantz",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Hakan Keles",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Pinhani",
-    "segment": "Moderate listeners"
-  },
-  {
-    "artistName": "Conan Gray",
     "segment": "Light listeners"
   },
   {
-    "artistName": "HUNNY",
+    "artistName": "Johnny Hartman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dave Weckl",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Travis Barker",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "L'Impératrice",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Randy Crawford",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Dominic Fike",
+    "artistName": "Light Of The World",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "I Monster",
+    "artistName": "Jungle",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "The Red Pears",
+    "artistName": "Lyle Mays",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "John Lennon",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Richard Wagner",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Ivo Dimchev",
+    "artistName": "Simone",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Kuty",
+    "artistName": "Bob Kulick",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Gories",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Drake",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Tom Harrell",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Snoop Dogg",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Vince DiCola",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pomrad",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Shigeru Suzuki",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Werner Güra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Agnes Obel",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Marcus Miller",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The RH Factor",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Antonín Dvořák",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nobukazu Takemura",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Radiohead",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Bruno Mars",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Jennifer Gilbert",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Raedio",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sigmund Romberg",
     "segment": "Light listeners"
   },
   {
     "artistName": "Deftones",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Jordan Lee",
     "segment": "Light listeners"
   },
   {
-    "artistName": "The Haunt",
+    "artistName": "Lamoureux Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "David Arnold",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Damon Iddins",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Toto Cutugno",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "David Bowie",
-    "segment": "Moderate listeners"
-  },
-  {
-    "artistName": "Kutiman",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Her's",
     "segment": "Super Listeners"
   },
   {
-    "artistName": "Alex Turner",
+    "artistName": "London Music Works",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Waylon Jennings",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Acrania",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "George Frideric Handel",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "John Scofield",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kenny Garrett",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Zerrin Özer",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jerry Goldsmith",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Yasuko Agawa",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gerald Clayton",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Go West",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Europe",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Pieter Bourke",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Akira Yamaoka",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Her's",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Miles Davis",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Jabbar",
-    "segment": "Previously Active Listeners"
+    "artistName": "MF DOOM",
+    "segment": "Super Listeners"
   },
   {
-    "artistName": "JAWNY",
+    "artistName": "Marcin Przybyłowicz",
     "segment": "Light listeners"
   },
   {
-    "artistName": "5 Seconds of Summer",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Cemiyette Pişiyorum",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Anime Kei",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "CruFly",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Ozbi",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "maNga",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Klaxons",
+    "artistName": "Joaquín Rodrigo",
     "segment": "Light listeners"
+  },
+  {
+    "artistName": "Wolfgang Amadeus Mozart",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Pierre Boulez",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Steve Gadd",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Hooverphonic",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Alex Turner",
+    "segment": "Super Listeners"
+  },
+  {
+    "artistName": "Alan Pasqua",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Hi-Fi Set",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Cam O'bi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Alon Goldstein",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kei Wakakusa",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "After the Rain",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jonathan Nott",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Woody Jackson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gloria Estefan And Miami Sound Machine",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Sunglasses Kid",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Joaquín Rodrigo",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kirmont",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Panda Bear",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "PATRIARKH",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Laurent Voulzy",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Chet Baker",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Slow Runner",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Dua Lipa",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "SWIRF",
+    "artistName": "Orchestre du Theatre National de IOpera-Comique",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Arcane",
+    "artistName": "Christopher Lennertz",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Yukihiro Takahashi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sophia Loren",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Tracey Thorn",
     "segment": "Previously Active Listeners"
   },
   {
@@ -688,7 +1888,35 @@
     "segment": "Previously Active Listeners"
   },
   {
+    "artistName": "Sergio Franchi",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "美乃家セントラルステイション",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Luke Million",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Jack Stauber",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Diana Ross",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Art Porter",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Salena Jones",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Terrace Martin",
     "segment": "Light listeners"
   },
   {
@@ -696,27 +1924,71 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Diddy",
+    "artistName": "Young Thug",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Muğla Büyükşehir Belediyesi Orkestrası",
+    "artistName": "Marshal Royal",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Katy Perry",
+    "artistName": "Paul Motian",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Maarten Jansen",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Taylor Swift",
+    "artistName": "Bohren & Der Club Of Gore",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "ShadowStep",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Kolpa",
+    "artistName": "William McVicker",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Flört",
+    "artistName": "Academy of St. Martin in the Fields",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Freddie Dredd",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Benoît Delbecq",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Petri Alanko",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dean Martin",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Russell Davis",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Rast",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Glenn Jones",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "St. Bride's Church Choir, Fleet Street",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Serani Poji",
     "segment": "Previously Active Listeners"
   },
   {
@@ -724,23 +1996,39 @@
     "segment": "Moderate listeners"
   },
   {
+    "artistName": "Sheryl Crow",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Carlo Savina",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Salvatore Licitra, Kronos Quartet, Orchestra Of The Royal Opera House, Covent Garden, Sian Edwards",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jan & Dean",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Vincent Diamante",
-    "segment": "Previously Active Listeners"
+    "segment": "Moderate listeners"
   },
   {
-    "artistName": "Nelly",
+    "artistName": "Billie Holiday",
     "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "J Rabbit",
-    "segment": "Light listeners"
   },
   {
     "artistName": "LiSA",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Rolelush",
+    "artistName": "Joan Jett & the Blackhearts",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Monika Urbonaite",
     "segment": "Previously Active Listeners"
   },
   {
@@ -748,59 +2036,175 @@
     "segment": "Previously Active Listeners"
   },
   {
+    "artistName": "Zyrex",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kylie Minogue",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jay Oliver",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gerard McMann",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jonny Tobin",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Antonio Vivaldi",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Diagrams",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Ariana Grande",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Nuvo Orchestra 누보 오케스트라",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Stray Kids",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Moby",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Geenaro & Ghana Beats",
+    "artistName": "Commuter",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "TroyBoi",
+    "artistName": "Dong-Suk Kang",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kay Johannsen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Giuseppe Patanè",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "ICO",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Aqua",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Igor Nikolayev",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Musica Relajante Para Dormir",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Alain Lombard",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Rundfunkchor Berlin",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "P.T. Adamczyk",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kenny Loggins",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bat Nouveau",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Clio",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jonathan Wolff",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ozan Musluoğlu",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Festa March",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Moby",
+    "segment": "Super Listeners"
+  },
+  {
+    "artistName": "ACN Music.",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ulku Aybala Sunat",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "King Crimson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Robin Blaze",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jamie Allen",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Bee Gees",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Vera Sola",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Splice Records",
+    "artistName": "Jenny Plant",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Modern Talking",
-    "segment": "Super Listeners"
+    "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Son Feci Bisiklet",
+    "artistName": "Dave Liebman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Irish Rovers",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Telefon Tel Aviv",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Collegium Vocale Gent",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "André Previn",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Kamuran Akkor",
+    "artistName": "Barış Manço",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Alban Berg Quartett",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Jordanaires",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bad Bunny",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "鈴木 弘",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lara Mulcahy",
     "segment": "Light listeners"
   },
   {
@@ -808,83 +2212,215 @@
     "segment": "Light listeners"
   },
   {
-    "artistName": "kamaitachi",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "Letoa",
+    "artistName": "Robert Tepper",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "ascendant vierge",
+    "artistName": "Andy Jackson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Itzhak Perlman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Vanity Fare",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "John McLaughlin",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Cyndi Lauper",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Beny Moré",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Léo Delibes",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "The Strokes",
-    "segment": "Super Listeners"
+    "segment": "Light listeners"
   },
   {
     "artistName": "Yumi Arai",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "The Midnight Club ",
+    "artistName": "Grigory Sokolov",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Cumhur Sevinç",
+    "artistName": "David Davidson",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Hepsi",
+    "artistName": "Roy Haynes",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Cindy",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "BETWEEN FRIENDS",
+    "artistName": "Kitty Kallen",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Florence + The Machine",
+    "artistName": "Carter Burwell",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Seiko Sato",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Michele Rene",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Thee Sacred Souls",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "These City Limits",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Masamichi Torii",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Julee Cruise",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Tomoko Aran",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Oscar Peterson Trio",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Jibaku Shonen Band",
     "segment": "Light listeners"
   },
   {
+    "artistName": "Thomas Newman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Elliott Smith",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Fleetwood Mac",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Mac DeMarco",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "kaikaén",
+    "artistName": "Johannes Meissl",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Jerry Folk",
+    "artistName": "Cole Porter",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Stryv",
+    "artistName": "Jamie Foxx",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Gökçe",
+    "artistName": "Werner Tautz",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "The Kinks",
+    "artistName": "Big L",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dawn Upshaw",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jan Lundgren",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Dave Brubeck Quartet",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nemanja Radulović",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Carrapicho",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Emotions",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mady Mesple",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Joris de Man",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Allan Holdsworth",
     "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Paris Sorbonne Chorus",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Brad Mehldau",
-    "segment": "Moderate listeners"
+    "segment": "Super Listeners"
   },
   {
-    "artistName": "YUNGBLUD",
+    "artistName": "Mòn",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "DREAMS COME TRUE",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Tulips Ballad",
+    "artistName": "Sharon Jones & The Dap-Kings",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Trippie Redd",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Beegie Adair",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Stephen Scott",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Eric Demarsan",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Georges Delerue",
     "segment": "Previously Active Listeners"
   },
   {
@@ -892,115 +2428,259 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "TNK",
+    "artistName": "Michael Sembello",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Riselles",
+    "artistName": "Vulf",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Tomo",
-    "segment": "Super Listeners"
-  },
-  {
-    "artistName": "Shawn Mendes",
+    "artistName": "Lil Yachty",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Lieselotte",
+    "artistName": "NASAYA",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Traditional",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Leonard Bernstein",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "La Femme",
-    "segment": "Super Listeners"
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Alex Orbison",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Sertab Erener",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Dolu Kadehi Ters Tut",
+    "artistName": "Türk Kara Kuvvetleri Komutanlığı Bando ve Armoni Mızıkası",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Pera",
+    "artistName": "Red Garland",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Rihanna",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "EVERGLOW",
+    "artistName": "Groove Armada",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Katatonia",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Taylor Davis",
+    "artistName": "Leonard Cohen",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Nataly Dawn",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Kaffetorsk",
+    "artistName": "Wendell Culley",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "evaness",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Cottonwood Firing Squad",
+    "artistName": "Peter Schumayer",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Wax Tailor",
+    "artistName": "Larry Goldings",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Seksendört",
+    "artistName": "Lacrim",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Taku Matsushiba",
+    "artistName": "Erroll Garner",
+    "segment": "Super Listeners"
+  },
+  {
+    "artistName": "Thad Jones",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "The Notorious B.I.G.",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Aire Atlantica",
+    "artistName": "Portishead",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nick Mason",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Xeyale Tovuzlu",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mai Yamane",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Susumu Hirasawa",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Muse",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Prism Quartet",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jacek Koman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ensemble Explorations",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "笠井 紀美子",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Alessandro Cicognini",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "James Brown",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Livio Giorgi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Damned",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Travis Scott",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "kadirsavage",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "CHUNG HA",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "matthias valentine",
+    "artistName": "Alan R. Splet",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Françoise Hardy",
     "segment": "Light listeners"
   },
   {
-    "artistName": "BEGE",
+    "artistName": "Sarah Vaughan",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Dio",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "William Orbit",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Bon Enfant",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "ALIZADE",
+    "artistName": "Audioslave",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Men I Trust",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Kali Uchis",
     "segment": "Light listeners"
   },
   {
+    "artistName": "Vijay Iyer Trio",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Enrico Rava",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Karla Bonoff",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Tame Impala",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Negatiator",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Police",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Kermit",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Fortunes",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Randal Despommier",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Hiroshi Suzuki",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Robbie Williams",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Don Henley",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "NCT",
+    "artistName": "Bob Seger",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Roland Pöntinen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Мать Тереза",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "ぬいぐるみクレヨン Lush Crayon",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Mario Panzeri",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ruggero Leoncavallo",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1008,47 +2688,111 @@
     "segment": "Light listeners"
   },
   {
+    "artistName": "Yann Tiersen",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Eyedress",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "The Black Heart Procession",
+    "artistName": "Raffaella Carrà",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "cakal",
+    "artistName": "Russian State Symphony Orchestra",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "RMB",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Brazzaville",
+    "artistName": "Ambrosian Singers/Philharmonia Orchestra/Riccardo Muti",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Troy Grove",
+    "artistName": "Glenn Frey",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "PSY",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nani Wolfgramm and the Islanders",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lewis Hahn",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Valentina Lisitsa",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Maluma",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Carl Douglas",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Björk",
-    "segment": "Moderate listeners"
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Boris Brovtsyn",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sylvie Vartan",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Denzel Curry",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Ezhel",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Bladee",
+    "artistName": "İradə İbrahimova",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Katya Lel",
+    "artistName": "Epica",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Joe Henderson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Edip Akbayram",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Skrillex",
+    "artistName": "Avishai Cohen",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "D12",
+    "artistName": "Brad Mehldau Trio",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Gil Evans",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Electric Guest",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Claude François",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1056,71 +2800,179 @@
     "segment": "Light listeners"
   },
   {
-    "artistName": "Oliver Tree",
+    "artistName": "Kenny Meriedeth",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Brian Blade",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kenji Kawai",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sonny Payne",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Billy Mitchell",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Teoman",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Kaan Tangöze",
+    "artistName": "The Priddle",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Sonya Belousova",
+    "artistName": "Rammstein",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "xSyborg",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Lin Pesto",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "unxbected",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Hedonutopia",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Metronomy",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "half•alive",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Mavzer Tabancas",
+    "artistName": "Macklemore",
     "segment": "Light listeners"
+  },
+  {
+    "artistName": "A Tribe Called Quest",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kenny Meriedeth",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Brigitte Bardot",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Indigo Girls",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Purple Disco Machine",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jacques Offenbach",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Joshua Redman",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Marcia Religioso",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "John Denver",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Benny Powell",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Peter McConnell",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Harun Kolçak",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Gerhard Weinberger",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mischa Maisky",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Babutsa",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Isley Brothers",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Ravi Coltrane",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Foy Vance",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Yasin Yaşlı",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jan Garbarek",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Britney Spears",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "wendel",
+    "artistName": "Steve Lawrence",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Alain Caron",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Luciano",
+    "artistName": "Yu Hayami",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "HAUSER",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ted Jasper",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "The Marías",
-    "segment": "Super Listeners"
+    "segment": "Moderate listeners"
   },
   {
-    "artistName": "Nothing But Thieves",
+    "artistName": "John Cafferty",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Ice Spice",
+    "artistName": "Take 6",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "The Prodigy",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Annie Philippe",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Michael Price",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Silent Poets",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Rockwell",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Outfield",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1128,43 +2980,75 @@
     "segment": "Light listeners"
   },
   {
+    "artistName": "Sergei Prokofiev",
+    "segment": "Light listeners"
+  },
+  {
     "artistName": "Madonna",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Vansire",
+    "artistName": "The Cure",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Kid Smoko",
+    "artistName": "Ats",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "13 Killoki",
+    "artistName": "Komorni Studio Zagrebačke Filharmonije",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Miura Jam",
+    "artistName": "Paolo Fresu",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "EXO-K",
+    "artistName": "Bill Evans",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Audun Kleive",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Gripin",
+    "artistName": "Gloria Gaynor",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Slowdive",
+    "artistName": "ADDA Simfònica",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Daoko",
+    "artistName": "Mr. Mister",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "OFFICIAL HIGE DANDISM",
+    "artistName": "Al Di Meola",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Eazy-E",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Carlos Gardel",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bootsy Collins",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Robert White",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Marilyn Crispell",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Chris Montez",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1172,59 +3056,75 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Zekai Tunca",
+    "artistName": "Burt Bacharach",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Julie Pasturaud",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Dominic Harlan",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Dove Cameron",
-    "segment": "Previously Active Listeners"
+    "artistName": "Makoto Matsushita",
+    "segment": "Light listeners"
   },
   {
-    "artistName": "Cinerama",
+    "artistName": "Franz Schubert",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Gus Dapperton",
-    "segment": "Moderate listeners"
+    "segment": "Light listeners"
   },
   {
-    "artistName": "NCT 127",
+    "artistName": "Murray Perahia",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "kxxyra",
+    "artistName": "Aztec Camera",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Mertigo",
+    "artistName": "Huey Lewis & The News",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Ecco2k",
+    "artistName": "Gheorghe Zamfir",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Giona Ostinelli",
+    "artistName": "Malcolm Addey",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Modest Mussorgsky",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Joy Again",
+    "artistName": "Dominik Wörner",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Cem Adrian",
+    "artistName": "Anna Moffo",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Ikue Asazaki",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Hozier",
+    "artistName": "Sade",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Warhaus",
+    "artistName": "Aimee Mann",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Candan Erçetin",
+    "artistName": "Jimmy Haslip",
     "segment": "Light listeners"
   },
   {
@@ -1232,75 +3132,179 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Wabie",
+    "artistName": "Pascal Rogé",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Farazi",
+    "artistName": "Furkan Demir",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Balkans",
+    "artistName": "ProdMarvin",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "RADWIMPS",
-    "segment": "Moderate listeners"
-  },
-  {
-    "artistName": "Farazi V Kayra",
+    "artistName": "David Gates",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Lythx",
+    "artistName": "Mark Guiliana",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Babe Rainbow",
+    "artistName": "Twista",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "David Garvey",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Al Dubin",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "London Philharmonic Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "アトラスサウンドチーム",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Luna",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Wejoell",
+    "artistName": "Vaughan Mason & Butch Dayo",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Emir Can İğrek",
+    "artistName": "Marc Duguay",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Post Malone",
+    "artistName": "Dana Williams",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jack Harlow",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Tatsuro Yamashita",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Eighth Wonder",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "James Brown & The Famous Flames",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Paris Sorbonne Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bill Elm",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "B.B. King",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Porcupine Tree",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Assassin's Creed",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dimmu Borgir",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jeff Buckley",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Yoko Takahashi",
-    "segment": "Light listeners"
+    "segment": "Moderate listeners"
   },
   {
-    "artistName": "Matt Maltese",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "Jun Togawa",
+    "artistName": "Danielle Millet",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Volkan Akmehmet",
+    "artistName": "Frank Stallone",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "ROSALÍA",
+    "artistName": "Oliver Nelson",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Tom Odell",
+    "artistName": "W.A.S.P.",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Beyaz Hayvanlar",
+    "artistName": "Akira Inoue",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bloodstone",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "MONTMARTRE",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Danny Elfman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Amy Holland",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Bedük",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Chezile",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Johann Christian Bach",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Anthony Jackson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Björn Skifs",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "John Farnham",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Delfonics",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ennio Morricone",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Al Grey",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Toots Thielemans",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1308,115 +3312,275 @@
     "segment": "Previously Active Listeners"
   },
   {
+    "artistName": "Yello",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Rainbow",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Niva",
-    "segment": "Previously Active Listeners"
+    "artistName": "CASIOPEA",
+    "segment": "Light listeners"
   },
   {
     "artistName": "M83",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Peach Pit",
+    "artistName": "Still Corners",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Linked Horizon",
+    "artistName": "LARA",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "The Technicolors",
+    "artistName": "Seiko Matsuda",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Dayglow",
+    "artistName": "Frank Wess",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Jan Hammer",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Muti",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gerhard Kanzian",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Hues Corporation",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Christian McBride",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sergei Rachmaninoff",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Godley & Creme",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kool & The Gang",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Karsu",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Vitamin String Quartet",
+    "artistName": "Starship",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Monsune",
+    "artistName": "Kyung Wha Chung",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "2NE1",
+    "artistName": "Denis Rouger",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Krono",
+    "artistName": "Funkadelic",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "İkiye On Kala",
+    "artistName": "Annette Hanshaw",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Go-Go's",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Spongebob Squarepants",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Doris Day",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Can Bonomo",
+    "artistName": "Deltron 3030",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Henri Salvador",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Yot Club",
-    "segment": "Super Listeners"
+    "segment": "Light listeners"
   },
   {
-    "artistName": "Alela Diane",
+    "artistName": "Camille Saint-Saëns",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "blackbear",
+    "artistName": "Smokey Robinson & The Miracles",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Hatari",
+    "artistName": "Roy Orbison",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "2Pac",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Joshua Bell",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mikhail Pletnev",
     "segment": "Light listeners"
   },
   {
     "artistName": "The Growlers",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Omega",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Fana Hues",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Shinsei Kamattechan",
+    "artistName": "UFO",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Noelia Rodiles",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nick Mason's Saucerful of Secrets",
     "segment": "Light listeners"
+  },
+  {
+    "artistName": "Bolier",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sibylla Rubens",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "David Gilmour",
     "segment": "Super Listeners"
   },
   {
-    "artistName": "Hakan Peker",
+    "artistName": "Özdemir Erdoğan",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Talk Talk",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "KIRINJI",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "John Williams",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Alain Planès",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mario Jalenti",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Blondie",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Michel Rubini",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Lvbel C5",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Lil Baby",
+    "artistName": "Nina Simone",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "DAY6",
+    "artistName": "Steve Coleman",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Mild High Club",
+    "artistName": "Richard Galliano",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "PinkPantheress",
+    "artistName": "Arthur Rubinstein",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "NCT U",
+    "artistName": "Michael Kamen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Belle and Sebastian",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Cutting Crew",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gloria Ann Taylor",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lykke Li",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Chicago Symphony Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nightwish",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "13th Floor Elevators",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pet Shop Boys",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Richard Davis",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "The King's Singers",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jeanne Moreau",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1424,271 +3588,615 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Ella Fitzgerald",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "quinnie",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "Morphine",
+    "artistName": "Seyit Yıldırım",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Zara Larsson",
+    "artistName": "Ella Fitzgerald",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Wiener Philharmoniker",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Brooksie",
+    "artistName": "Eric Clapton",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Andrea Parodi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bread",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "David Glen Eisley",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nova Whisper",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Hande Yener",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Paul Lewis",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Rachelle Ferrell",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Blue Swede",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ayaz Aydın",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Little Simz",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sir Georg Solti",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Polish National Radio Symphony Orchestra",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Kris Kristofferson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Hisohkah",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Howard Shore",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ludvig Forssell",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "1986 OMEGA TRIBE",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Cem Karaca",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Minuano",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Red 7",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Darren Korb",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dave Holland",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Strega Nona",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Carl Orff",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sunken",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Christina Aguilera",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Jimmy Scott",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Gary Novak",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Lively Ones",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Passions",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Blackbyrds",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Lorn",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mustard",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Anton Bruckner",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Flo Rida",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Béla Bartók",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Glen Campbell",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The 1975",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Salvatore Licitra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gabriel Fauré",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Sergey Tsatsorin",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Statler Brothers",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Chick Corea Akoustic Band",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Valeria Szervánszky",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Paul Dombrecht",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "The Insiders",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Butch Dayo",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kingo Hamada",
     "segment": "Moderate listeners"
-  },
-  {
-    "artistName": "Olmo",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Atiye",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "Tuğkan",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "Accept",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "Bosphoroots",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "Lauv",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "The Last Shadow Puppets",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Zülfü Livaneli",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Who-ya Extended",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "TOMORROW X TOGETHER",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "BR1X3R",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Big Boi",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "BONES",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Melih Duygulu",
-    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Cuco",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "BIGBANG",
+    "artistName": "Keiko Matsui",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Vladimir Horowitz",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Johann Pachelbel",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Soundtrack Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Keith Jarrett Trio",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Summer Cem",
+    "artistName": "Samuel Barber",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Wallows",
+    "artistName": "Mark Ayres",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Catfish and the Bottlemen",
+    "artistName": "Angus & Julia Stone",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sagopa Kajmer",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Grup Laçin",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Camille Berthollet",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Domenico Scarlatti",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Esra Kayıkçı",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Videoclub",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Lara Di Lara",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Madrugada",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Plums",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Cannonball Adderley",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Suki Waterhouse",
+    "artistName": "Dizzy Gillespie",
     "segment": "Light listeners"
   },
   {
-    "artistName": "The Garden",
+    "artistName": "Luther Vandross",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Concerto Köln",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Majeste",
-    "segment": "Previously Active Listeners"
+    "artistName": "MARO",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Anri",
     "segment": "Super Listeners"
   },
   {
-    "artistName": "Joy Wellboy",
-    "segment": "Previously Active Listeners"
-  },
-  {
     "artistName": "MGMT",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Lamp",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Joji",
+    "artistName": "Larry Clinton & His Orchestra",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Chase Atlantic",
-    "segment": "Super Listeners"
-  },
-  {
-    "artistName": "JORDANN",
+    "artistName": "Sandra",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Ane Brun",
-    "segment": "Previously Active Listeners"
+    "artistName": "Jean-Luc Ponty",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Tom Jones",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Tyler, The Creator",
+    "segment": "Super Listeners"
+  },
+  {
+    "artistName": "John Travolta",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Henri Rene",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Peter Gabriel",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Jim James",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bruce Springsteen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "JAY-Z",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Vulfpeck",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bea Wain",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Cory Henry",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "National Philharmonic Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Flirts",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Hans Zimmer",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Miles Davis, Cannonball Adderley, Hank Jones, Art Blakey",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kanye West",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "The Macarons Project",
+    "artistName": "Kikiyama",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "YUI",
+    "artistName": "宇宙ネコ子",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Adèle Castillon",
+    "artistName": "Fancy",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Game of Thrones",
+    "artistName": "Nani Wolfgramm and His Islanders",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Aytowén",
+    "artistName": "The Who",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Michael Tai",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Nicki Minaj",
+    "artistName": "Mafumafu",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "DEHA INC.",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Other Lives",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Gaye Su Akyol",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Lola Marsh",
-    "segment": "Previously Active Listeners"
+    "artistName": "Angelo Badalamenti",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Taeko Onuki",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "The Whispers",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Randy Esen",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Rolfe Kent",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Tania Maria",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Elton John",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "György Ligeti",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Skeler",
+    "artistName": "Şahsenem",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Bernard Haitink",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Saliva Grey",
+    "artistName": "Tropidelic",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Manuş Baba",
+    "artistName": "Andreas Schnermann",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Aaron Smith",
+    "artistName": "ABBA",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Vince Staples",
+    "artistName": "Ray Ventura Et Ses Collégiens",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Ayla Dikmen",
+    "artistName": "Ahmet Kaya",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Mavi Gri",
+    "artistName": "The Roots",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Wombats",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Linda Scott",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "MIDICRONICA",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Yusuf / Cat Stevens",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jessica Pratt",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Level 42",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Joseph Haydn",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Antônio Carlos Jobim",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Shocking Blue",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Valeria",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Ali Atay",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Genevieve Artadi",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Dario Marianelli",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Emmanuel Pahud",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nikolai Lugansky",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bad Boys Blue",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Savage",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Tobias Lilja",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ronald Brautigam",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Billy Marchiafava",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sir Neville Marriner",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Il Fondamento",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Peter Gundry",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bob Marley & The Wailers",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Game & Sound",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Louis Cole",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Harry Nilsson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Return To Forever",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Chick Corea",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Wiener Singverein",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Lana Del Rey",
-    "segment": "Moderate listeners"
-  },
-  {
-    "artistName": "Niccolò Paganini",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Sidney Gish",
+    "artistName": "Halsey",
     "segment": "Light listeners"
+  },
+  {
+    "artistName": "Sibel Can",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Jennifer Lopez",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Various Artists",
-    "segment": "Moderate listeners"
-  },
-  {
-    "artistName": "Momoko Kikuchi",
     "segment": "Light listeners"
   },
   {
-    "artistName": "beabadoobee",
+    "artistName": "Various Artists",
+    "segment": "Super Listeners"
+  },
+  {
+    "artistName": "Toshinobu Kubota",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Momoko Kikuchi",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Belgian Radio and Television Philharmonic Orchestra",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1696,15 +4204,75 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Aydilge",
-    "segment": "Moderate listeners"
+    "artistName": "Dolly Parton",
+    "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "sped up + slowed",
+    "artistName": "Baxter Robinson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Tomaso Albinoni",
     "segment": "Light listeners"
   },
   {
+    "artistName": "Kraftwerk",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Chris Potter",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "間宮貴子",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Chick Corea",
+    "segment": "Super Listeners"
+  },
+  {
+    "artistName": "Stephen Hartman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Musa Eroğlu",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "David Bell",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Lyndhurst Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ralph Holmes",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Ronettes",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Video Game Players",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Henri Casadesus",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Joe Hisaishi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Swedish Radio Choir",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "ODESZA",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1712,12 +4280,56 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Astronomyy",
+    "artistName": "Elaine Barry",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "deadman 死人",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Peggy Gou",
+    "artistName": "Cankan",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Paco de Lucía",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Sena İris",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Masayoshi Takanaka",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Leone Magiera",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Brian Tuey",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jesper Kyd",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lil Pump",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Datura",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lee Harris",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "King Geedorah",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Dent May",
@@ -1725,26 +4337,74 @@
   },
   {
     "artistName": "Jordana",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Red Hot Chili Peppers",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Enrico Macias",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Véronique Jannot",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Masaaki Suzuki",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Andrew Lloyd Webber",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Riccardo Muti",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Technotronic",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gerry Mulligan",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "cormac",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Unknown Artists",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pino Daniele",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Balmorhea",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "HOTEI",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Arcadi Volodos",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Evdeki Saat",
+    "artistName": "SEATBELTS",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "4Minute",
-    "segment": "Previously Active Listeners"
+    "artistName": "Nancy Sinatra",
+    "segment": "Moderate listeners"
   },
   {
-    "artistName": "Mothé",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "Deeperise",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Sia",
+    "artistName": "Viktor Vaughn",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1752,15 +4412,31 @@
     "segment": "Previously Active Listeners"
   },
   {
+    "artistName": "Joni Mitchell",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The London Film Score Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Aşkın Nur Yengi",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "educatedear",
+    "segment": "Moderate listeners"
   },
   {
     "artistName": "杉山劉太郎",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Lonely Drifter Karen",
+    "artistName": "Bunny Berigan and His Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Calexico",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1772,67 +4448,203 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Ezhel",
-    "segment": "Previously Active Listeners"
+    "artistName": "George Harrison",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Jeff Beck",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Daft Punk",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Imogen Heap",
+    "artistName": "Basia",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Chappo",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "ONE OK ROCK",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Hermei",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "FIFTY FIFTY",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Girls' Generation",
+    "artistName": "Russian National Orchestra",
     "segment": "Light listeners"
   },
   {
-    "artistName": "GD X TAEYANG",
+    "artistName": "Adana Merkez",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Charlie Puth",
+    "artistName": "Sprain",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "rash",
+    "artistName": "The Beach Boys",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Molella",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "London Symphony Orchestra",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Seamus Blake",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Wayne Shorter",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nazan Öncel",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Todd Rundgren",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "The Turtles",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Mary J. Blige",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nelly Kokinos",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Paper Kites",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Masahiko Togashi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Midwife",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Wang Chung",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Chaka Khan",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Raji",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Akira Takahashi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Tom Tom Club",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bill Withers",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Nyan Cat",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Chicago Symphony Chorus",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Keith Jarrett",
+    "segment": "Moderate listeners"
   },
   {
     "artistName": "Nujabes",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Vantage",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "John Coltrane Quartet",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Second",
+    "artistName": "Downfall Of Gaia",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Stromae",
+    "artistName": "Simon & Garfunkel",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "OneRepublic",
+    "artistName": "Janine Jansen",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Don Omar",
+    "artistName": "Simon Hale",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Zehra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Brigitte Desnoues",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jonny Greenwood",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ediz Hafızoğlu",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Night Ranger",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Robert Glasper",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Anderson .Paak",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Manzanita",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Fatih Bogalar",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "稲垣次郎とソウル・メディア",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Madlib",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kai Winding",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Yusef Lateef",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "TEEMID",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1840,79 +4652,203 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Aura Vortex",
+    "artistName": "Stanley Clarke",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Wrongchilde",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Yuri Tanaka",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Boom Clap Bachelors",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Accademia Bizantina",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nicole Kidman",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Shawn James",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bronze",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Frankie Avalon",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Belle Sisoski",
-    "segment": "Super Listeners"
-  },
-  {
-    "artistName": "Isaac Dunbar",
+    "artistName": "Catwork",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Hollaphonic",
+    "artistName": "Genesis",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Masataka Matsutoya",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Tindersticks",
+    "artistName": "Dela",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "TRIPEX",
+    "artistName": "Emma Stone",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Moloko",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Milt Buckner",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Marat Bisengaliev",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Strawberry Guy",
-    "segment": "Light listeners"
+    "segment": "Moderate listeners"
   },
   {
-    "artistName": "BLACKPINK",
+    "artistName": "Etta James",
     "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Benjamin Diamond",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Vangelis",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "György Kurtág",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ronald Aspery",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lou Reed",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Müslüm Gürses",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "фрози",
-    "segment": "Super Listeners"
+    "artistName": "Richard Goode",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "I Musici",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mike Oldfield",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Lorelei McDermott",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jackson Beatz",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Thom Yorke",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ray Evans",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Benjamin Britten",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Justin Hurwitz",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Foster The People",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Bill Oliver Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dave Grusin",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "AURORA",
     "segment": "Super Listeners"
   },
   {
-    "artistName": "King Gnu",
+    "artistName": "Stelvio Cipriani",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Fly",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Los Lobos",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Zeki Müren",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Hohnen Ford",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Ray Noble & His Orchestra",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Simon Franglen",
+    "artistName": "Miami Sound Machine",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Aldous Harding",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "h4lfer",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Mother Mother",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Gym Class Heroes",
+    "artistName": "Andrew Huang",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Pitbull",
+    "artistName": "Rejjie Snow",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Gary Peacock",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Thaiboy Digital",
+    "artistName": "Ferenc Bognar",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Keane",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1924,15 +4860,15 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Erenlol",
+    "artistName": "Erkin Koray",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Billy Idol",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Liodré",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Lu Han",
+    "artistName": "Jon Jelmer",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1940,23 +4876,95 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Ayten Alpman",
+    "artistName": "Steve Smith",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Blues Traveler",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Andrew Parrott",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "A$AP Rocky",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Ronnell Bright",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Ayten Alpman",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "The Highwaymen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ra-Kalam Bob Moses",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Robert Schumann",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jacky Terrasson",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Ozan Doğulu",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Alistair McGowan",
+    "artistName": "Jakuzi",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Ivo Pogorelich",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Eylem",
+    "artistName": "Fabiana Martone",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Juice WRLD",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Naoko Gushima",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Wes Montgomery",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Glenn Miller",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Krystian Zimerman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Hitomi Tohyama",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Melihat Gülses",
+    "artistName": "Gang Of Four",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kit Downes",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Junior Senior",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1964,19 +4972,71 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Shakira",
+    "artistName": "Claudio Abbado",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Phil Collins",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "ヴァリアス・アーティスト",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Joe Newman",
     "segment": "Light listeners"
   },
   {
-    "artistName": "THE ORAL CIGARETTES",
+    "artistName": "Shakira",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Mattyeux",
+    "artistName": "Valentine",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Salvatore Accardo",
+    "artistName": "Hiatus Kaiyote",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bryan Adams",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bobby Vinton",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "youra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Julia-Maria Kretz",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Aaron Parks",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jaques Morelenbaum",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Arthur Hoeree",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "İlhan İrem",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Yasin Yaşlı",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jack Cruz",
     "segment": "Previously Active Listeners"
   },
   {
@@ -1984,28 +5044,172 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Rex Orange County",
-    "segment": "Moderate listeners"
-  },
-  {
-    "artistName": "Onur Can Özcan",
+    "artistName": "Kovacs",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Zepet",
+    "artistName": "Bill Evans Trio",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Selena Gomez",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Elephants Memory",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kirk Franklin",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Vaughan Mason",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Franz Liszt",
     "segment": "Light listeners"
   },
   {
-    "artistName": "The Oklahoma Kid",
+    "artistName": "Mýa",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Chris Thile",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Harry Styles",
+    "artistName": "Low Roar",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Popa",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Dave",
+    "artistName": "Luca Lush",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Beth Andersen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Daniele Luppi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Göksel",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Madvillain",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dotted Eighth",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Yuki Saitou",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Helmuth Brandenburg",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Peggy Lee",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Tommy Shaw",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gerry Mulligan Sextet",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Claude Piaf",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Steely Dan",
+    "segment": "Super Listeners"
+  },
+  {
+    "artistName": "DANGERDOOM",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Duke Ellington",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The All Nighters",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Spyro Gyra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Johnny \"Hammond\" Smith",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Rod Stewart",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "João Gilberto",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Tamer Temel",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Eivind Opsvik",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Luciano Pavarotti",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Andreas Scholl",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Nil Karaibrahimgil",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Toxic Avenger",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Requin Chagrin",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Rick Stotijn",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Brent Faiyaz",
     "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Quincy Jones",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Fikret Kızılok",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Kenan Doğulu",
@@ -2013,98 +5217,454 @@
   },
   {
     "artistName": "Carpenters",
-    "segment": "Moderate listeners"
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Dietrich Henschel",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Michael Lange",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Billy Sherwood",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dan Tepfer",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gerard Butler",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Janko Nilovic",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Metro Boomin",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Alfie Templeman",
+    "artistName": "Night Tempo",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Seether",
+    "artistName": "Lester Young",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Nayer",
+    "artistName": "Edward Elgar",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Liana Flores",
+    "artistName": "The Handsome Family",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Laura Branigan",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Misha Xramovi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ottavio Dantone",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "David Binney",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Model",
+    "artistName": "9th Wonder",
     "segment": "Light listeners"
   },
   {
-    "artistName": "LET IT FLOW",
+    "artistName": "Jean-Francois Lapointe",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Berkay Altunyay",
+    "artistName": "Bing Crosby",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Orchestra Da Camera Italiana",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Mustafa Kemal Atatürk",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Ulas Özdemir",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "ENHYPEN",
+    "artistName": "Gustavo Santaolalla",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Batusyex",
+    "artistName": "Mavi",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Alec Benjamin",
+    "artistName": "Frederic Bernard",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bag Raiders",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kashif",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Marc Minkowski",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Art Farmer & Benny Golson Jazztet",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Maroon 5",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "HIM",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Norman Simmons Trio",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lavinia Meijer",
     "segment": "Light listeners"
+  },
+  {
+    "artistName": "Jenő Jandó",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Joe Pass",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mazhar Alanson",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Styx",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Tim Cappello",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Claude Debussy",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Doctor P",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Clipse",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Klaus Badelt",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ben Wendel",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Igor Markevitch",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Van Halen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jack Wall",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Bulut Gülen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jean-Philippe Rameau",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Shivaree",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Orpheus Chamber Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "杉本喜代志",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "strongboi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Paul Desmond",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Steve Winwood",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ewan McGregor",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Celidea",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Haruomi Hosono",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "John Cameron",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Rick Derringer",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lou Rawls",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Paolo Bacilleri",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Old Man Canyon",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ollie Wride",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Syd Barrett",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Shakedown",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Sam Gopal",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mioko Yamaguchi",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Nükhet Duru",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Tangerine Dream",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Koto",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Henry Coker",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Al Bowlly",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Morton Feldman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Belinda Carlisle",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Double Sens",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Off Course",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Quarterflash",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Andrew Hale",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Omar Souleyman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gustav Mahler",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "ANDER503",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Irene Cara",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Steve Porcaro",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Saib",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Barış Doğukan Yazıcı",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pixies",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Blonde Redhead",
     "segment": "Previously Active Listeners"
   },
   {
+    "artistName": "Gordon Beck",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "MAGNUS HOLMANDER",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Swindail",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Mustafa Sandal",
-    "segment": "Moderate listeners"
-  },
-  {
-    "artistName": "Artz",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Nouvelle Vague",
+    "artistName": "Richard Myhill",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Hakan Aysev",
+    "artistName": "Erick the Architect",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Atatürk",
+    "artistName": "Burzum",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Hayien",
+    "artistName": "Stan Getz",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Franz Ferdinand",
+    "artistName": "Ceylan Ertem",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sonia Rubinsky",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "D-Train",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ronald Cavaye",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Scott LaFaro",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Claire Rosinkranz",
+    "artistName": "Tyla",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Zuhal Olcay",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Jason Yeager",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pete La Roca",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mirkelam",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Flamingosis",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "yalcinmarston",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Ilkan Gunuc",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Viola Tunnard",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Trashmen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "MURO",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Nino Rota",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lil Durk",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Immortal",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Sonny Greenwich Jr",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Dee-1",
     "segment": "Previously Active Listeners"
   },
   {
@@ -2112,179 +5672,359 @@
     "segment": "Previously Active Listeners"
   },
   {
+    "artistName": "Mr. Flagio",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Gesaffelstein",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Hindi Zahra",
+    "artistName": "Brian McKnight",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "The Cranberries",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Ferit Odman",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Clams Casino",
+    "artistName": "Rumer",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Saint Motel",
+    "artistName": "Frank Foster",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Haddaway",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "ユリコンAllstars",
+    "artistName": "Hareton Salvanini",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Cults",
+    "artistName": "The City of Prague Philharmonic Orchestra",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Kenya Grace",
+    "artistName": "Nimrod Guez",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pat Metheny Group",
+    "segment": "Super Listeners"
+  },
+  {
+    "artistName": "Marcel Worms",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Rafet El Roman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Fatboy Slim",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Supertramp",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Michel Plasson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Children Of Bodom",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Aminé",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Vladimir Ashkenazy",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Jeff Redd",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Haggard",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Pretty Vicious",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Zeynep Bastık",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "CAT DAD",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Emei",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Eve",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Mohombi",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "阿保剛",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Khalid",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Sena Şener",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "girl in red",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Otilia",
-    "segment": "Super Listeners"
-  },
-  {
-    "artistName": "Paulie Leparik",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Labrinth",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "fatit",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Giant Rooks",
+    "artistName": "Danger Mouse",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Yüksek Sadakat",
-    "segment": "Super Listeners"
+    "artistName": "The Doors",
+    "segment": "Light listeners"
   },
   {
-    "artistName": "Allah-Las",
+    "artistName": "Craig Taborn",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Yüzyüzeyken Konuşuruz",
-    "segment": "Super Listeners"
+    "artistName": "Benny Golson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Phats & Small",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jerry Goldsmith, Ron Jones",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Julian Casablancas",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kurtuluş Kuş",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Giannis Parios",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Carly Rae Jepsen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pauline Sachse",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Aki Takase",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "DJ NOTOYA",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Carmen Castaldi",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Babys Gang",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Temas de Series de Televisión",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jacob Sacks",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Hedonistic Noise",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Paul Chambers Quintet",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Lionel Richie",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Freddie Green",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Gerd Türk",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lesley Barber",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Vince DiCola",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lee Hazlewood",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Ratt",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Say Hi",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Macklemore & Ryan Lewis",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Patti Smith",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Freddie Hubbard",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ziynet Sali",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ryo Fukui",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Les Musiciens du Louvre",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ace of Base",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lionel Hampton",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Blue Foundation",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Nuvo Orchestra",
     "segment": "Light listeners"
   },
   {
+    "artistName": "Jeff Russo",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Luis Fonsi",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "yusha571",
+    "artistName": "Battlelore",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Palle Danielsson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Baby Keem",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Demet Sağıroğlu",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Arctic Monkeys",
-    "segment": "Light listeners"
+    "segment": "Moderate listeners"
   },
   {
     "artistName": "FEWS",
-    "segment": "Super Listeners"
+    "segment": "Moderate listeners"
   },
   {
-    "artistName": "Alexander Borodin",
+    "artistName": "Jeremy Soule",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "CLC",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "SUNMI",
+    "artistName": "Hi-Gloss",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Yung Lean",
+    "artistName": "The Smiths",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Ajda Pekkan",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Ray Parker Jr.",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Patrice Rushen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Chris Brown",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "George Michael",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Eugene Young",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Kavinsky",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Michelle Gurevich",
+    "artistName": "At The Gates",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "E-40",
+    "artistName": "Richard & Linda Thompson",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Madrigal",
-    "segment": "Super Listeners"
+    "artistName": "Minako Honda",
+    "segment": "Moderate listeners"
   },
   {
-    "artistName": "Djo",
+    "artistName": "Beady Belle",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Paleface Swiss",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Murda",
+    "artistName": "Jean Sibelius",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Sir Simon Rattle",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Ayparia",
+    "artistName": "Wings",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Sydney Symphony Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Zapp",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Richard Bona",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Martin Jones",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Gerard Marino",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Starski",
     "segment": "Previously Active Listeners"
   },
   {
@@ -2292,39 +6032,119 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Jamie Bower",
+    "artistName": "André Laplante",
     "segment": "Light listeners"
   },
   {
-    "artistName": "ATEEZ",
+    "artistName": "Chuck Turner",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "UPSAHL",
+    "artistName": "Jack DeJohnette",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "t.A.T.u.",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jan Jansen",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Creedence Clearwater Revival",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jefferson Airplane",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Herbert von Karajan",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Bach Collegium Japan Chorus",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Music Lab Collective",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Moondough",
+    "artistName": "Peter Hughes Orchestra",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "unknxwnreal",
+    "artistName": "Frédéric Chopin",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Kamasi Washington",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Bobby Caldwell",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Eloy",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Gentleman",
+    "artistName": "Gregory Porter",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "umutlopes",
+    "artistName": "Symfonický orchester Slovenského rozhlasu",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Hotel Ugly",
+    "artistName": "London Grammar",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "MyReminiscence",
+    "artistName": "Metallica",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Outkast",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Pensacola Mist",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Laure Favre-Kahn",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Don Johnson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Moodymann",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ry Cooder",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Maurice Ravel",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Franco Battiato",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Street Cleaner",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "ColdWorld",
     "segment": "Previously Active Listeners"
   },
   {
@@ -2332,255 +6152,595 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Melike Şahin",
-    "segment": "Previously Active Listeners"
-  },
-  {
     "artistName": "泰葉",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Nükhet Ruacan",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Georges Bizet",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Calvin Harris",
+    "artistName": "Stealers Wheel",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Theishter",
+    "artistName": "Smooth McGroove",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Yves Nisha",
+    "artistName": "Gerry Rafferty",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "League of Legends",
+    "artistName": "Poets of the Fall",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Engin Arslan",
+    "artistName": "Gunna",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Palmiyeler",
+    "artistName": "Paul Giorgi",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Village People",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pedro Esparza",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pomplamoose",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Boukou Groove",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jan Gunnar Hoff",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Brad Mehldau & Mark Guiliana",
+    "segment": "Moderate listeners"
   },
   {
     "artistName": "Ludwig van Beethoven",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Adam Port",
+    "artistName": "Gorgoroth",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "egethevac",
+    "artistName": "The Truth",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Musical Youth",
+    "artistName": "Opa Tsupa",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Cidergirl",
+    "artistName": "Dmitri Shostakovich",
     "segment": "Light listeners"
+  },
+  {
+    "artistName": "Kiyotaka Sugiyama",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dan Hartman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Guthrie Govan",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pietro Mascagni",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Дурное Влияние",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Klazz Brothers",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Anonymous",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Brian Hyland",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kaoma",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ceza",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "David Virelles",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Miki Matsubara",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Stevie Wonder",
     "segment": "Light listeners"
   },
   {
-    "artistName": "late night drive home",
+    "artistName": "Chick Corea Elektric Band",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Ibrahim Maalouf",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Slipknot",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Cem Aksel",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Tony Dallara",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Manu Chao",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Pablo Nouvelle",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Ayse Hatun Onal",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Centimillimental",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Shapeless",
+    "artistName": "Josep Vicent",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Dwin",
+    "artistName": "Miles Davis Quintet",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "evaness",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Elena Maque",
     "segment": "Light listeners"
+  },
+  {
+    "artistName": "Donna Summer",
+    "segment": "Moderate listeners"
   },
   {
     "artistName": "Cage The Elephant",
-    "segment": "Super Listeners"
+    "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Bakar",
-    "segment": "Light listeners"
+    "artistName": "Bernard Gérard",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Bread",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "J.J. Johnson",
+    "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Doja Cat",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Stefano Bollani",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Fun Fun",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Pheelz",
+    "artistName": "James P. Nichols",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Seyyal Taner",
+    "artistName": "David Lynch",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Apparat",
+    "artistName": "Metro Exodus",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "M.E",
+    "artistName": "Antonio Banderas",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Paramore",
+    "artistName": "Lee Harris",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Elisabeth Söderström",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Change",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Prime Movers",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "John Patitucci",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Hara Noda",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "She Past Away",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Blu-Swing",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Dido",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Chœur Britten",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Benny Carter",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Lorin Maazel",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ural Cossacks Choir",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Philip Sheppard",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Norah Jones",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Lee Ritenour",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "John Escreet",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Pino Donaggio",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "The Pigeon Detectives",
-    "segment": "Moderate listeners"
+    "segment": "Light listeners"
   },
   {
-    "artistName": "No.1",
+    "artistName": "Emmanuel Jal & Abdel Gadir Salim",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "sped up 8282",
+    "artistName": "Maria Conchita Alonso",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Kayra",
+    "artistName": "Particle House",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "G*59 fan",
+    "artistName": "Stevie Nicks",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "David Lee",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "She Keeps Bees",
+    "artistName": "Pogo",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Oneohtrix Point Never",
+    "artistName": "Al Jarreau",
     "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Central Cee",
-    "segment": "Moderate listeners"
   },
   {
     "artistName": "Blossoms",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Clairo",
+    "artistName": "Insomnium",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Frank Gambale",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Low",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Гусейн Манапов",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Philip Bailey",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Paul McCartney",
+    "segment": "Super Listeners"
+  },
+  {
+    "artistName": "Al Bano And Romina Power",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kenny G",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Psychic Mirrors",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ambrose Akinmusire",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ryan Lewis",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Marian Hill",
+    "artistName": "Jensine Benitez",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Dabeull",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Klaus Thunemann",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Norm Ender",
-    "segment": "Previously Active Listeners"
+    "artistName": "高橋玲子",
+    "segment": "Light listeners"
   },
   {
-    "artistName": "Swedish House Mafia",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Anıl Piyancı",
-    "segment": "Previously Active Listeners"
-  },
-  {
-    "artistName": "Lily-Rose Depp",
+    "artistName": "Yurie Kokubu",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Joao Das Nieves",
+    "artistName": "Michael Brecker",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Nikki Gee",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "MERO",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "The Reds",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Frederik Paulsson",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Duman",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Yousei Teikoku",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Pablo de Sarasate",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Morrissey",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Trio Of Doom",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Shriekback",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Orchestra Sinfonica Di Milano",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Charles Aznavour",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Barbra Streisand",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dom Beken",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Lyn",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Philippe Herreweghe",
     "segment": "Moderate listeners"
   },
   {
-    "artistName": "Flunk",
+    "artistName": "The Floridas",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dire Straits",
+    "segment": "Moderate listeners"
   },
   {
     "artistName": "The Alan Parsons Project",
     "segment": "Moderate listeners"
   },
   {
+    "artistName": "The Choir Of Trinity College, Cambridge",
+    "segment": "Previously Active Listeners"
+  },
+  {
     "artistName": "Levent Yüksel",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "RYUSENKEI",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Kush Kush",
+    "artistName": "San Francisco Symphony",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Artemas",
-    "segment": "Light listeners"
-  },
-  {
-    "artistName": "DEAN FUJIOKA",
+    "artistName": "Melis Fis",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Andrea Laszlo De Simone",
+    "artistName": "Fil Callender",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Gülüm Çahan",
+    "artistName": "Miles Davis feat. Cannonball Adderley",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Tina Turner",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Ferhat Göçer",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Future Islands",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Kronos Quartet",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Modjo",
+    "segment": "Super Listeners"
+  },
+  {
+    "artistName": "Röyksopp",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "La La Land Cast",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mark Turner",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Beste Zangers",
+    "artistName": "Satyricon",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Orso",
+    "artistName": "Yes",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Black Thought",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Crumb",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Pamela",
+    "artistName": "Youngan Youngan",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Fitz and The Tantrums",
+    "artistName": "Ivan Lins",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Eddie And The Tide",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Demet Akalın",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Aretha Franklin",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Guy Pratt",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Mitski",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Triple H",
+    "artistName": "Loathe",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Tamino",
+    "artistName": "Irma Thomas",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Mert Demir",
+    "artistName": "Canbay & Wolker",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Skillibeng",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Semiramis Pekkan",
     "segment": "Previously Active Listeners"
   },
   {
@@ -2588,87 +6748,267 @@
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "LMFAO",
+    "artistName": "Gary Burton",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Foreigner",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Bernard Herrmann",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "This Mortal Coil",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Beatrice",
+    "artistName": "Amsterdam Sinfonietta",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Paul Davis",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Woodkid",
+    "artistName": "Tijmen Huisingh",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Break Machine",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Psychonaut 4",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Steve Vai",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Krzysztof Penderecki",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Yeat",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "New York Philharmonic",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "CHIC",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Glenn Gould",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Moses Yoofee Trio",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Jerry Livingston",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "朝比奈 マリア",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Red Velvet",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Blazy",
+    "artistName": "Mobb Deep",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Red 7",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "RA MU",
     "segment": "Light listeners"
   },
   {
-    "artistName": "laynhex",
+    "artistName": "Ferdi Tayfur",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Natasha Korolyova",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Grace Jones",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Mia Farrow",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Berlin",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Iron Maiden",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Sister Sledge",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Alphaville",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Childish Gambino",
-    "segment": "Previously Active Listeners"
+    "segment": "Light listeners"
   },
   {
     "artistName": "Sedef Sebüktekin",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Sunset Front",
+    "artistName": "Sara Diamond",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "LXST CXNTURY",
+    "artistName": "Gregorio Allegri",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Sean Paul",
+    "artistName": "Survivor",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Orchestre National De Lyon",
+    "segment": "Moderate listeners"
+  },
+  {
+    "artistName": "Will Smith",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Everton Nelson",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "The Weeknd",
-    "segment": "Super Listeners"
+    "segment": "Light listeners"
   },
   {
-    "artistName": "Azure Wrath",
+    "artistName": "The Intruders",
     "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Guns N' Roses",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "P!nk",
+    "segment": "Light listeners"
   },
   {
     "artistName": "Kendrick Lamar",
-    "segment": "Light listeners"
+    "segment": "Super Listeners"
   },
   {
-    "artistName": "Gazzo",
+    "artistName": "Didier Lockwood",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Lee Hyori",
+    "artistName": "Heitor Villa-Lobos",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "eurenn",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Boards of Canada",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Spandau Ballet",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Touch",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "MINMI",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Lady Gaga",
+    "artistName": "Debbie Harry",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Dr. Dre",
     "segment": "Light listeners"
   },
   {
-    "artistName": "Imagine Dragons",
+    "artistName": "Vinnie Colaiuta",
     "segment": "Previously Active Listeners"
   },
   {
     "artistName": "Whitesnake",
-    "segment": "Moderate listeners"
+    "segment": "Light listeners"
   },
   {
-    "artistName": "yours, andrew",
+    "artistName": "Carlos Y Jose",
     "segment": "Previously Active Listeners"
   },
   {
-    "artistName": "Dirty Pretty Things",
+    "artistName": "Ian Bostridge",
     "segment": "Light listeners"
+  },
+  {
+    "artistName": "Airelle Besson",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Adam F",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "Pages",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "ICO",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Elmer Bernstein",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Placebo",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Latcho Drom",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Jim Broadbent",
+    "segment": "Light listeners"
+  },
+  {
+    "artistName": "The Cleveland Orchestra",
+    "segment": "Previously Active Listeners"
+  },
+  {
+    "artistName": "Daniel Lopatin",
+    "segment": "Previously Active Listeners"
   }
 ]

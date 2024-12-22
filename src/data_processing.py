@@ -179,14 +179,3 @@ def get_top_saved_artists(library_df, top_n=10):
     artist_counts = Counter(library_df['artist'].fillna('Unknown'))
     return artist_counts.most_common(top_n)
 
-def get_genre_diversity(library_df):
-    """
-    Calculate genre diversity from the user's library.
-    :param library_df: DataFrame with a 'genre' column.
-    :return: Counter or dictionary of genre counts.
-    """
-    if 'genre' not in library_df.columns:
-        print("Genre information is not available in the data.")
-        return {}
-    genres = library_df['genre'].dropna()
-    return Counter(genres)
